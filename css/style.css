@@ -26,6 +26,8 @@ body {
 }
 .wrapper {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
 }
 .descr h1 {
     font-family: 'Ubuntu', sans-serif;
